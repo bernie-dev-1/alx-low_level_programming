@@ -2,9 +2,9 @@
 
 /*
  * add - adds two values
- * @n1: first number
- * @n2: second number
- * Return: returns  int val
+ * @n1: first number to add
+ * @n2: second number to add
+ * Return: return val after addition
  */
 
 int add(int n1, int n2)
