@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - entry point
+ * _abs - entry point
+ * @i: value to be checked
  * Return: alays 0
  */
 
