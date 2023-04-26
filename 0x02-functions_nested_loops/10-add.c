@@ -4,7 +4,7 @@
  * add - adds two values
  * @n1: first number
  * @n2: second number
- * Return:; int val
+ * Return: returns  int val
  */
 
 int add(int n1, int n2)
