@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * main - entry point
- * Return: always 0
+ * _islower - entry point
+ * @c:parameter to be checked
+ * Return: either 0 or 1
  */
 
 int _islower(int c)
@@ -17,5 +18,4 @@ int _islower(int c)
 	_putchar('\n');
 
 }
-	 
 
