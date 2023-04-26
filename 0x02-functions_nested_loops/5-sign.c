@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_sign - entry point
+ * @n: character to be checked
  * Return: always 0
  */
 
@@ -18,6 +19,9 @@ int print_sign(int n)
 		_putchar(45);
 		return (-1);
 	}
-
-	_putchar('\n');
+	else
+	{
+		_putchar(48);
+		return (0);
+	}
 }
